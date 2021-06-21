@@ -1,7 +1,9 @@
 package main
-import "fmt"
-import "C"
-import "strings"
+import ( 
+    "fmt"
+    "C"
+    "strings"
+)
 
 func main() {
 }
